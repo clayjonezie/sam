@@ -1,0 +1,19 @@
+{% extends "base.html" %}
+
+{% block head %}
+    <script src="/static/js/graph.js"></script>
+    <script id="initial_state">
+              
+    </script>
+{% endblock %}
+{% block content %}
+<h1>{{ table }}</h1>
+<ul>
+{% for col in cols %}
+  <li>{{ col }}</li>
+{% endfor %}
+</ul>
+
+<div id="graph"></div>
+
+{% endblock %}
