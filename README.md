@@ -18,3 +18,6 @@ This is a website to help wildlife managers handle their data. The goals are
 * Mangement Action Repository
   * data-based aggregation of management activities and ecological responses
   * encourages communication of successful management activities between researchers, managers, and the community.
+* data backend
+  * incorporate data from other sources (managers without interent, external researchers)
+  * manage intellectual property rights of this data
