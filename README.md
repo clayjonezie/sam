@@ -1,5 +1,5 @@
 # sam
-=======
+
 strategic adaptive management
 
 This is a website to help wildlife managers handle their data. The goals are
